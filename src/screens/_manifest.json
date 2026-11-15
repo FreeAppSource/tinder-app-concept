@@ -1,0 +1,56 @@
+{
+ "app": "Tinder App Concept",
+ "start": "chat",
+ "screens": [
+  {
+   "slug": "home-2",
+   "name": "Home_2",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 25,
+   "links": 2
+  },
+  {
+   "slug": "chat",
+   "name": "Chat",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 45,
+   "links": 1
+  },
+  {
+   "slug": "chat-messages",
+   "name": "Chat--Messages",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 61,
+   "links": 2
+  },
+  {
+   "slug": "profile",
+   "name": "Profile",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 41,
+   "links": 2
+  },
+  {
+   "slug": "home",
+   "name": "Home",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 32,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "montserrat"
+ ]
+}
